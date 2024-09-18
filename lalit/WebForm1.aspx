@@ -13,6 +13,7 @@
         <h2>hello world</h2>
         
         <div>
+            <asp:Button ID="Button1" runat="server" Text="Button" />
         </div>
     </form>
 </body>
